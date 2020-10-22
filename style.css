@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    padding: 10px;
+}
+
+figure {
+    max-width: 502px;
+    margin: 10px auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
